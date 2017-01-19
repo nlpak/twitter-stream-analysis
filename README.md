@@ -2,7 +2,7 @@
 
 The goal of this program is to performe some twitter-stream-analysis on the data that we collected from streaming.
 
-Read the output log of Exercise 2, and calculate the retweet counts for the tweets. For
+Read the output log of streaming (programe 2), and calculate the retweet counts for the tweets. For
 counting the retweet counts, you have to search for the retweets in the whole log for
 MinRetweetCounts and MaxRetweetCounts, to see the mimimum value of
 MinRetweetCounts and the maximum value of MaxRetweetCounts, and calculate the
