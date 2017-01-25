@@ -1,4 +1,4 @@
-# twitter-stream-analysis
+# Twitter-stream-analysis
 
 The goal of this program is to performe some twitter-stream-analysis on the data that we collected from streaming.
 
